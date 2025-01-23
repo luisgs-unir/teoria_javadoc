@@ -194,9 +194,8 @@ Genera la documentación en HTML y revisa cómo se muestra.
 - **Recursos adicionales:**
   - 📖 [Documentación oficial de Javadoc](https://docs.oracle.com/en/java/javase/11/docs/specs/doc-comment-spec.html)
   - 🎥 [Tutorial sobre Javadoc en IntelliJ](https://www.jetbrains.com/help/idea/viewing-external-documentation.html)
+  - 🎥 [HowTo: Generar Javadoc en Eclipse ](https://www.youtube.com/watch?v=w68TSP4r-eU)
+
+  
 
 
-
----
-
-Con este **documento Markdown**, puedes compartirlo fácilmente con tus alumnos o subirlo a un repositorio en **GitHub**. ¿Te gustaría que prepare diapositivas basadas en esta planificación?
